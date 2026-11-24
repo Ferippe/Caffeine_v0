@@ -12,7 +12,17 @@ componente del motor cumple una función específica. El archivo
 `main.cpp` se encarga de inicializar y coordinar todos los módulos.
 
 ---
+## Demo del motor
 
+Demostración de **Caffeine_v0** en ejecución, mostrando la 
+integración del escenario 3D, iluminación dinámica, sprites 
+animados, cámara FPS y visualización musical en tiempo real.
+
+[![Caffeine_v0 - Tech Demo](https://img.youtube.com/vi/aqV4x1tTGus/maxresdefault.jpg)](https://youtu.be/aqV4x1tTGus?si=2QFevc69TpP48MKw)
+
+**[Ver demostración completa en YouTube](https://youtu.be/aqV4x1tTGus?si=2QFevc69TpP48MKw)**
+
+---
 ## Módulos del motor
 
 | Módulo | Descripción |
